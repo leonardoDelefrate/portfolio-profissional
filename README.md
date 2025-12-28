@@ -60,4 +60,31 @@ Desenvolvimento de uma funcionalidade para limitar o valor total das cargas tran
 
 ---
 
+## 📱 Primeiro aplicativo Rodonaves (2024-2025)
+
+Descrição:
+Desenvolvimento de um aplicativo próprio da Rodonaves voltado para motoristas não afiliados à empresa, permitindo que aceitassem trabalhos de coleta e entrega de mercadorias. A proposta do sistema é semelhante à de aplicativos como o Uber, porém focado exclusivamente no trânsito de cargas e mercadorias.
+
+Tecnologias:
+
+Backend: .NET Core, C#, Entity Framework, SQL Server
+
+Frontend: Windows Forms, Flutter
+
+Banco de Dados: Oracle PL/SQL, PostgreSQL
+
+APIs REST
+
+Integração com sistemas legados
+
+Filtros avançados e tabelas dinâmicas
+
+Impacto:
+
+Ampliação das possibilidades de coleta e entrega por meio de motoristas terceiros
+
+Maior flexibilidade operacional no trânsito de mercadorias
+
+---
+
 🔗 *Obrigado por visitar meu portfólio! Caso tenha interesse em saber mais sobre algum projeto, fique à vontade para entrar em contato.*
